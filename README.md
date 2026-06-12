@@ -1,3 +1,5 @@
+Made for PIMM Engineering as part of a final paper by Tim Verdcourt
+
 ## Repository structure
  
 ```
