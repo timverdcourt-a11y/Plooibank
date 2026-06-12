@@ -1,0 +1,12 @@
+SET(SOURCES screens/ui_ScreenHome.c
+    screens/ui_ScreenPresetsSelect.c
+    screens/ui_ScreenPresetEdit.c
+    screens/ui_ScreenSettings.c
+    ui_theme_manager.c
+    ui_themes.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c)
+
+add_library(ui ${SOURCES})
